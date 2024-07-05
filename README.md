@@ -1,6 +1,6 @@
 # Pathfinding-Visualiser-Project
 
-This is a Project which will visualize different PathFinding Algorithms.
+This is a Project which will Visualize different PathFinding Algorithms.
 
 ## Meet the various algorithms
 ### Pathfinding Algorithms
